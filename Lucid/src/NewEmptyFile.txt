@@ -1,0 +1,75 @@
+					case 1:
+					Registry.song.note12 = Registry.song.C_3;
+					break;
+					case 2:
+					Registry.song.note12 = Registry.song.CS_3;
+					break;
+					case 3:
+					Registry.song.note12 = Registry.song.D_3;
+					break;
+					case 4:
+					Registry.song.note12 = Registry.song.DS_3;
+					break;
+					case 5:
+					Registry.song.note12 = Registry.song.E_3;
+					break;
+					case 6:
+					Registry.song.note12 = Registry.song.F_3;
+					break;
+					case 7:
+					Registry.song.note12 = Registry.song.FS_3;
+					break;
+					case 8:
+					Registry.song.note12 = Registry.song.G_3;
+					break;
+					case 9:
+					Registry.song.note12 = Registry.song.GS_3;
+					break;
+					case 10:
+					Registry.song.note12 = Registry.song.A_3;
+					break;
+					case 11:
+					Registry.song.note12 = Registry.song.AS_3;
+					break;
+					case 12:
+					Registry.song.note12 = Registry.song.B_3;
+					break;
+					case 13:
+					Registry.song.note12 = Registry.song.C_4;
+					break;
+					case 14:
+					Registry.song.note12 = Registry.song.CS_4;
+					break;
+					case 15:
+					Registry.song.note12 = Registry.song.D_4;
+					break;
+					case 16:
+					Registry.song.note12 = Registry.song.DS_4;
+					break;
+					case 17:
+					Registry.song.note12 = Registry.song.E_4;
+					break;
+					case 18:
+					Registry.song.note12 = Registry.song.F_4;
+					break;
+					case 19:
+					Registry.song.note12 = Registry.song.FS_4;
+					break;
+					case 20:
+					Registry.song.note12 = Registry.song.G_4;
+					break;
+					case 21:
+					Registry.song.note12 = Registry.song.GS_4;
+					break;
+					case 22:
+					Registry.song.note12 = Registry.song.A_4;
+					break;
+					case 23:
+					Registry.song.note12 = Registry.song.AS_4;
+					break;
+					case 24:
+					Registry.song.note12 = Registry.song.B_4;
+					break;
+					case 25:
+					Registry.song.note12 = Registry.song.C_5;
+					break;
